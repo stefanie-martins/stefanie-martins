@@ -1,0 +1,2 @@
+- 👋 Olá, sou @stefanie-martins
+- 🌱 Atualmente estou aprendendo HTML, CSS E JavaScript.

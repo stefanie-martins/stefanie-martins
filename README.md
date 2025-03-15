@@ -4,7 +4,7 @@ Olá! Meu nome é  Stefanie Martins Fernandes Pereira e sou uma profissional ini
 
 ## Conecte-se Comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanie-martins-fernandes-pereira-91098521b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/stefaniemartinsf)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stefanie-martins)
 
 ## Sobre Mim
